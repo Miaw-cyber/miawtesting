@@ -9,8 +9,9 @@ export default function About() {
             alt="About Me"
             className="mx-auto mb-6 w-32 h-32 rounded-full shadow-lg transform transition duration-500 hover:scale-110 hover:rotate-3"
           />
+          <p></p>
           <p className="text-gray-700 text-center max-w-2xl mx-auto">
-            I'm an experienced Automation Control Engineer with a strong background in circuit design, PLC programming, and electrical troubleshooting. Currently working at Daifuku BCS, I specialize in developing and implementing automation solutions for various industrial applications.
+            I'm an experienced Automation Control Engineer with a strong background in circuit design, PLC programming, and electrical troubleshooting. Currently working at Daifuku BCS, I specialize in developing and implementing automation solutions for various industrial applications. 7 years experience!
           </p>
         </div>
       </div>
